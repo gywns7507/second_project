@@ -1,1 +1,29 @@
+# 가상환경
 .venv/
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# 데이터 파일 (용량 큰 것들)
+*.csv
+*.xlsx
+*.xls
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# 환경변수 (API 키 등 민감정보)
+.env
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# 데이터 폴더
+data/
