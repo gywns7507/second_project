@@ -26,3 +26,6 @@ Thumbs.db
 
 # 데이터 폴더
 data/
+
+# 모델 폴더
+model/
