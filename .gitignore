@@ -29,3 +29,10 @@ data/
 
 # 모델 폴더
 model/
+
+# CatBoost
+catboost_info/
+
+# 임시 파일
+*.tmp
+*.tsv
