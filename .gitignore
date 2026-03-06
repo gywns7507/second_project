@@ -35,4 +35,4 @@ catboost_info/
 
 # 임시 파일
 *.tmp
-*.tsv
+*.tsv.venv 
